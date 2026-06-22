@@ -5,7 +5,6 @@ function calculateTotalStats(pokemon) {
     }, 0);
 }
 
-
 // Compares two Pokémon and prints the result
 async function comparePokemon(poke1, poke2) {
     try {
