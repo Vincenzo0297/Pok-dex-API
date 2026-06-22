@@ -1,4 +1,4 @@
-async function viewHistory(pokemonAPI) {
+function viewHistory(pokemonAPI) {
     try {
         if(pokemonAPI.length === 0) {
             console.log("No Pokemon history yet");
